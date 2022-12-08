@@ -10,18 +10,48 @@ body {
     line-height: 1.2;
 }
 
-.title {
+.large-text {
     font-family: "Butler", serif; 
     font-weight: 400;
+    font-size: 87px;
 }
 
-.subtitle {
-    font-family: "Roboto", Arial, sans-serif; 
+
+.section-subtitle { 
+    font-weight: 700;
+    font-size: 18px; 
+}
+
+.blockquote {
+    font-family: "Butler", serif; 
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.subtitle { 
     font-weight: 700; 
+    font-size: 16px;
 }
 
 .text {
-    font-family: "Roboto", Arial, sans-serif; 
     font-weight: 500;
+    font-size: 18px;
+}
 
+.small-text {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.title {
+    font-family: "Butler", serif; 
+    font-weight: 400;
+    font-size: 92px;
+}
+
+
+.small-title {
+    font-family: "Butler", serif; 
+    font-weight: 400;
+    font-size: 34px;
 }
